@@ -4,9 +4,14 @@ https://santraptinayak.notion.site/Cake-O-licious-The-Cake-Company-Dashboard-740
 
 Here are some snapshots 
 
-![22](https://github.com/SantraptiNayak/The-Cake-Company/assets/107788748/139f3269-3123-4408-8c7f-cde41a21afbd)
-
-
 
 ![11](https://github.com/SantraptiNayak/The-Cake-Company/assets/107788748/b59633c3-b499-4531-a7a6-4ab742d0b176)
+Image: Dashboard
+
+
+![22](https://github.com/SantraptiNayak/The-Cake-Company/assets/107788748/139f3269-3123-4408-8c7f-cde41a21afbd)
+Image: Menu
+
+
+
 
